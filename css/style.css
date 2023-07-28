@@ -1,0 +1,27 @@
+ul li {
+  display: inline;
+}
+
+section {
+  display: flex;
+  justify-content: space-between; width: 10px;
+  height: 10px;
+  margin-bottom: 30%;
+  margin-top: 30%;
+  align-items: center;
+  flex-direction: row;
+}
+
+article {
+  font-family: cursive;
+  width: 450px;
+  height: 300px;
+  overflow: auto;
+  float: right;
+}
+
+footer {
+  height: 250px;
+  background-color: coral;
+}
+
